@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     long int d,oc,of,od,cs,cb,cm,cd;
-    long inGoing to officet onlineCost, classicCost;
+    long onlineCost, classicCost;
 
     cin>>d;
     cin>>oc>>of>>od;
